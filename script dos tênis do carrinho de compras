@@ -1,0 +1,138 @@
+let pizzaJson = [
+  {
+      id: 1,
+      name: 'Air Max Plus TN 1 "Oreo"',
+      img: 'img/images/tnOreo.jpeg',
+      price: [879.92, 879.92, 879.92,],
+      sizes: [
+        '',
+        '',
+        '',
+        '',
+        '',
+        '',
+        
+      ],
+      description: 'Pra quem está a procura de um tenis confortavel e com uma boa estética, esse é o tenis que você procura'
+    },
+    {
+      id: 2,
+      name: 'Air Max Plus TN 1 "Black/White"',
+      img: 'img/images/tnBlackWhite.jpeg',
+      price: [879.92, 879.92, 879.92],
+      sizes: [
+        '',
+        '',
+        '',
+        '',
+        '',
+        '',
+      ],
+      description: 'Pra quem está a procura de um tenis confortavel e com uma boa estética, esse é tenis que você procura'
+    },
+    {
+      id: 3,
+      name: 'Air Max Plus TN 1 "Kaomoji"',
+      img: 'img/images/tnKaomoji.jpeg',
+      price: [879.92, 879.92, 879.92],
+      sizes: [
+        '',
+        '',
+        '',
+        '',
+        '',
+        '',
+      ],
+      description: 'Pra quem está a procura de um tenis confortavel e com uma boa estética, esse é tenis que você procura'
+    },
+    {
+      id: 4,
+      name: 'Air Max Plus TN 1 "Killer Whale"',
+      img: 'img/images/tnKiller.jpeg',
+      price: [879.92, 879.92, 879.92],
+      sizes: [
+        '',
+        '',
+        '',
+        '',
+        '',
+        '',
+      ],
+      description: 'Pra quem está a procura de um tenis confortavel e com uma boa estética, esse é o tenis que você procura'
+    },
+    {
+      id: 5,
+      name: 'Air Max Plus TN 1 "Black Metallic"',
+      img: 'img/images/tnMetalic.jpeg',
+      price: [879.92, 879.92, 879.92],
+      sizes: [
+        '',
+        '',
+        '',
+        '',
+        '',
+        '',
+      ],
+      description: 'Pra quem está a procura de um tenis confortavel e com uma boa estética, esse é tenis o que você procura'
+    },
+    {
+      id: 6,
+      name: 'Air Max Plus TN 1 "Nature Blue"',
+      img: 'img/images/tnNature.jpeg',
+      price: [879.92, 879.92, 879.92],
+      sizes: [
+        '',
+        '',
+        '',
+        '',
+        '',
+        '',
+      ],
+      description: 'Pra quem está a procura de um tenis confortavel e com uma boa estética, esse é tenis o que você procura'
+    },
+    {
+      id: 7,
+      name: 'Air Max Plus TN 1 "Particle Vapor"',
+      img: 'img/images/tnVapor.jpeg',
+      price: [879.92, 879.92, 879,92],
+      sizes: [
+        '',
+        '',
+        '',
+        '',
+        '',
+        '',
+      ],
+      description: 'Pra quem está a procura de um tenis confortavel e com uma boa estética, esse é tenis o que você procura'
+    },
+    {
+      id: 8,
+      name: 'Air Max Plus TN 1 "Varsity Red"',
+      img: 'img/images/tnVarsity.jpeg',
+      price: [879.92, 879.92, 879.92],
+      sizes: [
+        '',
+        '',
+        '',
+        '',
+        '',
+        '',
+      ],
+      description: 'Pra quem está a procura de um tenis confortavel e com uma boa estética, esse é tenis o que você procura'
+    },
+    {
+      id: 9,
+      name: 'Air Max Plus TN 1 "Persian Violet"',
+      img: 'img/images/tnViolet.jpg',
+      price: [879.92, 879.92, 879.92],
+      sizes: [
+        '',
+        '',
+        '',
+        '',
+        '',
+        '',
+      ],
+      description: 'Pra quem está a procura de um tenis confortavel e com uma boa estética, esse é tenis o que você procura'
+    },
+];
